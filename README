@@ -1,0 +1,4 @@
+All the experiments are conducted using ESPnet v.0.5.3
+The scripts for each experiment are the same as the ESPnet scripts
+
+To run the experiments, copy and paste the python fils to  espnet/nets/pytorch_backend/transformer 
